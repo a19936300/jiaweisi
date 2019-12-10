@@ -12,7 +12,7 @@ import java.time.LocalDateTime;
  * @description : ToDo
  * @date : 2019/12/5
  **/
-@Table(name = "lord")
+@Table(name = "tj_lord")
 public class LordPo {
     @Id
     private Long id;
