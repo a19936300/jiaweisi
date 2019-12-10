@@ -18,7 +18,7 @@ import java.util.List;
 public class TaskController {
 
     @RequestMapping("page")
-    public List<TaskPo> selectPage(Query){
+    public List<TaskPo> selectPage(){
 
         return null;
     }
